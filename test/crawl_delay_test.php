@@ -1,6 +1,7 @@
 <?php
-	// load file
-	require_once(__DIR__ . '/../robotstxtparser.php');
+	use RobotsTxtParser\RobotsTxtParser;
+// load file
+	require_once(__DIR__ . '/../src/RobotsTxtParser.php');
 
 	// prepare sample data
 	$data = "

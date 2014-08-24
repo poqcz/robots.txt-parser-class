@@ -15,6 +15,8 @@
 	 * @link http://www.the-art-of-web.com/php/parse-robots/#.UP0C1ZGhM6I
 	 */
 
+    namespace RobotsTxtParser;
+
 	use \InvalidArgumentException;
 
 	class RobotsTxtParser {

@@ -1,0 +1,21 @@
+{
+    "name": "poqcz/Robots.txt-Parser-Class",
+    "keywords": ["robots.txt", "parser"],
+    "version": "0.1",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "t1gor"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/poqcz/Robots.txt-Parser-Class/issues"
+    },
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "autoload": {
+        "psr-0": { "Composer": "src/" }
+    }
+}
